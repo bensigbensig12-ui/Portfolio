@@ -24,7 +24,6 @@ C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfoli
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\bundle\MyPortfolio.styles.css
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\projectbundle\MyPortfolio.bundle.scp.css
-C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-wwr552mxi3-wwr552mxi3.gz
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\77bbcuacp3-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\35sdztucma-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\w2fy9qwjec-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -84,3 +83,4 @@ C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfoli
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.pdb
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.genruntimeconfig.cache
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\ref\MyPortfolio.dll
+C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-5mdy6gash2-5mdy6gash2.gz
