@@ -58,3 +58,18 @@ h1:focus {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+.profile-section {
+  text-align: center;        /* center all text inside */
+  max-width: 400px;          /* optional: limit width for nice reading */
+  margin: 50px auto;         /* center container on page with spacing */
+  font-family: Arial, sans-serif;/* clean font */
+}
+
+.profile-photo {
+  width: 200px;
+  border-radius: 50%;
+  border: 3px solid #0078D4;
+  display: block;
+  margin: 20px auto;         /* center photo with vertical spacing */
+}
