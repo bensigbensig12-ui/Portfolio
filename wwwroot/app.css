@@ -1,6 +1,6 @@
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background: url(images/BG.jpg);
+   /* background: url(images/BG.jpg)*/
     color: white;
 }
 
@@ -62,16 +62,47 @@ h1:focus {
 }
 
 .profile-section {
-  text-align: center;        /* center all text inside */
-  max-width: 400px;          /* optional: limit width for nice reading */
-  margin: 50px auto;         /* center container on page with spacing */
-  font-family: Arial, sans-serif;/* clean font */
+    text-align: center;
+    max-width: 400px;
+    margin: 50px auto;
+    font-family: Arial, sans-serif;
 }
 
+/* Profile photo style */
 .profile-photo {
-  width: 200px;
-  border-radius: 50%;
-  border: 3px solid #0078D4;
-  display: block;
-  margin: 20px auto;         /* center photo with vertical spacing */
+    width: 200px;
+    border-radius: 50%;
+    border: none;
+    animation: photoEntrance 2s ease-in-out;
+}
+
+/* Keyframes for animation */
+@keyframes photoEntrance {
+    0% {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Headings and paragraph style */
+.profile-section h4 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-style: italic;
+    color: antiquewhite;
+    margin-top: 20px;
+}
+
+.profile-section h2 {
+    font-size: 1.5em;
+    margin-top: 15px;
+}
+
+.profile-section p {
+    font-size: 1em;
+    color: #eebbbb;
 }

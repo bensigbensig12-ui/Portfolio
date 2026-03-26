@@ -71,8 +71,6 @@ C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfoli
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\1y7vz97s41-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\roe620ryfg-{0}-ax6tuj8tun-ax6tuj8tun.gz
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\4lxb8ra21u-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-j9kh7zbw3b-j9kh7zbw3b.gz
-C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-j9kh7zbw3b-j9kh7zbw3b.gz
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\staticwebassets.development.json
@@ -83,4 +81,8 @@ C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfoli
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.pdb
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.genruntimeconfig.cache
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\ref\MyPortfolio.dll
-C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-5mdy6gash2-5mdy6gash2.gz
+C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\Myportfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Skills.razor.rz.scp.css
+C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Projects.razor.rz.scp.css
+C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-gas2ww81fn-gas2ww81fn.gz
+C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-754h0mezrf-754h0mezrf.gz
+C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-754h0mezrf-754h0mezrf.gz
