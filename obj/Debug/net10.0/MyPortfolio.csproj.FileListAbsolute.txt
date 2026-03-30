@@ -84,5 +84,5 @@ C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfoli
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\Myportfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Skills.razor.rz.scp.css
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Projects.razor.rz.scp.css
 C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-gas2ww81fn-gas2ww81fn.gz
-C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-754h0mezrf-754h0mezrf.gz
-C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-754h0mezrf-754h0mezrf.gz
+C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-0f0y2lqw33-0f0y2lqw33.gz
+C:\Users\DUSTIN RAMECH BENSIG\OneDrive\ドキュメント\MyPortfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-0f0y2lqw33-0f0y2lqw33.gz
